@@ -28,8 +28,11 @@
 ### GitHub Stats
 
 <p align="left">
+  <!-- Card da Esquerda - Estatísticas -->
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Carlos-CardozoS&show_icons=true&theme=tokyonight&title_color=38bdf8&icon_color=38bdf8&text_color=fff&bg_color=0d1117&hide_border=false" />
-  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Carlos-CardozoS&layout=compact&theme=tokyonight&title_color=38bdf8&text_color=fff&bg_color=0d1117&hide_border=false&langs_count=6" />
+
+  <!-- Card da Direita - Linguagens (Layout Donut para forçar altura) -->
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Carlos-CardozoS&layout=donut&theme=tokyonight&title_color=38bdf8&text_color=fff&bg_color=0d1117&hide_border=false" />
 </p>
 
 ---
