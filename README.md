@@ -1,6 +1,6 @@
 
 <p align="left">
-  <img align="right" src="[https://www.gifcen.com/wp-content/uploads/2022/10/anime-gif-71.gif](https://www.gifcen.com/wp-content/uploads/2022/06/anime-gif-16.gif)" width="220" alt="Anime GIF" />
+  <img align="right" src="https://www.gifcen.com/wp-content/uploads/2022/06/anime-gif-16.gif" width="220" alt="Anime GIF" />
   
   <a href="https://readme-typing-svg.demolab.com">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0072FF&width=450&lines=Ol%C3%A1%2C+eu+sou+Carlos+Henrique!+%F0%9F%91%8B" alt="Typing SVG" />
@@ -10,6 +10,8 @@
 </p>
 
 <br clear="all">
+
+
 
 
 ### Connect with me!
