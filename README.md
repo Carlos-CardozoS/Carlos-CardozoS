@@ -1,5 +1,7 @@
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=Ol%C3%A1,%20eu%20sou%20Carlos%20Henrique!%20%F0%9F%91%8B&fontSize=38&fontColor=0072FF&animation=fadeIn" />
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=0072FF&width=500&lines=Ol%C3%A1%2C+eu+sou+Carlos+Henrique!+%F0%9F%91%8B" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
