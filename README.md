@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0052cc&height=180&section=header&text=Ol%C3%A1,%20eu%20sou%20Carlos%20Henrique!%20%F0%9F%90%8B&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=Ol%C3%A1,%20eu%20sou%20Carlos%20Henrique!%20%F0%9F%91%8B&fontSize=38&fontColor=0072FF&animation=fadeIn" />
 </p>
 
 <p align="center">
