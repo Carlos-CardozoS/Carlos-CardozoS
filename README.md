@@ -1,4 +1,4 @@
-# <font color="#0052cc">Olá, eu sou Carlos Henrique! 👋</font>
+<font color="#0052cc"> # Olá, eu sou Carlos Henrique! 👋</font>
 
 <font color="#1e70bf"><b>Sou desenvolvedor em formação e estudante de Análise e Desenvolvimento de Sistemas. Tenho foco principal em desenvolvimento Java, aplicações desktop e banco de dados.</b></font>
 
