@@ -1,4 +1,4 @@
-## Hi there 👋
+![Snake Animation](https://raw.githubusercontent.com/Carlos-CardozoS/Carlos-CardozoS/output/github-snake-dark.svg)
 
 <!--
 **Carlos-CardozoS/Carlos-CardozoS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
