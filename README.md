@@ -1,46 +1,35 @@
-<div align="left">
-  <h1>Olá, eu sou Carlos Henrique! 👋</h1>
-  <p>Sou desenvolvedor em formação e estudante de Análise e Desenvolvimento de Sistemas. Tenho foco principal em desenvolvimento Java, aplicações desktop e banco de dados.</p>
+# Olá, eu sou Carlos Henrique! 👋
 
-  <br>
+Sou desenvolvedor em formação e estudante de Análise e Desenvolvimento de Sistemas. Tenho foco principal em desenvolvimento Java, aplicações desktop e banco de dados.
 
-  <!-- Redes e Contatos -->
-  <h3>Connect with me!</h3>
-  <p>
-    <a href="mailto:seuemail@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/EMAIL-181717?style=for-the-badge&logo=gmail&logoColor=purple&labelColor=000" alt="Email" />
-    </a>
-    <a href="https://linkedin.com/in/seuusuario" target="_blank">
-      <img src="https://img.shields.io/badge/LINKEDIN-181717?style=for-the-badge&logo=linkedin&logoColor=purple&labelColor=000" alt="LinkedIn" />
-    </a>
-    <a href="https://github.com/Carlos-CardozoS" target="_blank">
-      <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=purple&labelColor=000" alt="GitHub" />
-    </a>
-  </p>
+---
 
-  <br>
+### Connect with me!
 
-  <!-- Minhas Tecnologias -->
-  <h3>My Stack</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </p>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuusuario)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Carlos-CardozoS)
 
-  <br>
+---
 
-  <!-- Estatísticas do GitHub -->
-  <h3>GitHub Stats</h3>
-  <p>
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=Carlos-CardozoS&show_icons=true&theme=synthwave&hide_border=true" alt="Estatísticas do GitHub" />
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-CardozoS&layout=compact&theme=synthwave&hide_border=true" alt="Linguagens mais usadas" />
-  </p>
+### My Stack
 
-</div>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-<br>
+---
+
+### GitHub Stats
+
+<p align="left">
+  <img height="185" src="https://github-readme-stats.vercel.app/api?username=Carlos-CardozoS&show_icons=true&theme=dark&hide_border=true" />
+  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-CardozoS&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+---
 
 ### Contributions
+
 ![Snake Animation](https://raw.githubusercontent.com/Carlos-CardozoS/Carlos-CardozoS/output/github-snake-dark.svg)
