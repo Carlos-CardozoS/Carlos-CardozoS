@@ -24,8 +24,8 @@ Sou desenvolvedor em formação e estudante de Análise e Desenvolvimento de Sis
 ### GitHub Stats
 
 <p align="left">
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Carlos-CardozoS&theme=dark&hide_border=true" />
-  <img height="160" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Carlos-CardozoS&layout=compact&theme=dark&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Carlos-CardozoS&show_icons=true&theme=tokyonight&title_color=m&icon_color=m&text_color=fff&bg_color=0d1117" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-CardozoS&layout=compact&theme=tokyonight&title_color=m&text_color=fff&bg_color=0d1117" />
 </p>
 
 ---
