@@ -4,7 +4,18 @@
   </a>
 </p>
 
-<p>Sou desenvolvedor em formação e estudante de Análise e Desenvolvimento de Sistemas. Tenho foco principal em desenvolvimento Java, aplicações desktop e banco de dados.</p>
+<p align="left">
+  <img align="right" src="https://br.pinterest.com/animenews_news/anime-gifs/" width="180" alt="Anime GIF" />
+  
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0072FF&width=450&lines=Ol%C3%A1%2C+eu+sou+Carlos+Henrique!+%F0%9F%91%8B" alt="Typing SVG" />
+  </a>
+  <br><br>
+  <font color="#3b82f6"><b>Sou desenvolvedor em formação e estudante de Análise e Desenvolvimento de Sistemas. Tenho foco principal em desenvolvimento Java, aplicações desktop e banco de dados.</b></font>
+</p>
+
+<br clear="all">
+
 
 ### Connect with me!
 
