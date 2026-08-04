@@ -1,6 +1,6 @@
-# Olá, eu sou Carlos Henrique! 👋
+# <font color="#0052cc">Olá, eu sou Carlos Henrique! 👋</font>
 
-Sou desenvolvedor em formação e estudante de Análise e Desenvolvimento de Sistemas. Tenho foco principal em desenvolvimento Java, aplicações desktop e banco de dados.
+<font color="#1e70bf"><b>Sou desenvolvedor em formação e estudante de Análise e Desenvolvimento de Sistemas. Tenho foco principal em desenvolvimento Java, aplicações desktop e banco de dados.</b></font>
 
 ---
 
@@ -24,8 +24,8 @@ Sou desenvolvedor em formação e estudante de Análise e Desenvolvimento de Sis
 ### GitHub Stats
 
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Carlos-CardozoS&show_icons=true&theme=tokyonight&title_color=m&icon_color=m&text_color=fff&bg_color=0d1117" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-CardozoS&layout=compact&theme=tokyonight&title_color=m&text_color=fff&bg_color=0d1117" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Carlos-CardozoS&show_icons=true&theme=tokyonight&title_color=m&icon_color=m&text_color=fff&bg_color=0d1117" />
+  <img height="160" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Carlos-CardozoS&layout=compact&theme=tokyonight&title_color=m&text_color=fff&bg_color=0d1117" />
 </p>
 
 ---
