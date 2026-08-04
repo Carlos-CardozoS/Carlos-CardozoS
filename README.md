@@ -1,6 +1,6 @@
-<font color="#0052cc"> # Olá, eu sou Carlos Henrique! 👋</font>
+<h1 align="left"><span style="color: #4ca6ff;">Olá, eu sou Carlos Henrique! 👋</span></h1>
 
-<font color="#1e70bf"><b>Sou desenvolvedor em formação e estudante de Análise e Desenvolvimento de Sistemas. Tenho foco principal em desenvolvimento Java, aplicações desktop e banco de dados.</b></font>
+<p align="left"><b style="color: #3b82f6;">Sou desenvolvedor em formação e estudante de Análise e Desenvolvimento de Sistemas. Tenho foco principal em desenvolvimento Java, aplicações desktop e banco de dados.</b></p>
 
 ---
 
