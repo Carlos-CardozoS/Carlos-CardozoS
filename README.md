@@ -7,7 +7,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=0072FF&width=600&lines=Desenvolvedor+em+forma%C3%A7%C3%A3o;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Foco+em+Java%2C+Aplica%C3%A7%C3%B5es+Desktop+e+Banco+de+Dados" alt="Typing SVG" />
   </a>
 </p>
----
 
 ### Connect with me!
 
