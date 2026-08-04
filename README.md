@@ -1,7 +1,12 @@
-<h1 align="left"><span style="color: #4ca6ff;">Olá, eu sou Carlos Henrique! 👋</span></h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0052cc&height=180&section=header&text=Ol%C3%A1,%20eu%20sou%20Carlos%20Henrique!%20%F0%9F%90%8B&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-<p align="left"><b style="color: #3b82f6;">Sou desenvolvedor em formação e estudante de Análise e Desenvolvimento de Sistemas. Tenho foco principal em desenvolvimento Java, aplicações desktop e banco de dados.</b></p>
-
+<p align="center">
+  <a href="https://readme-typing-svg.herokuapp.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=0072FF&width=600&lines=Desenvolvedor+em+forma%C3%A7%C3%A3o;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Foco+em+Java%2C+Aplica%C3%A7%C3%B5es+Desktop+e+Banco+de+Dados" alt="Typing SVG" />
+  </a>
+</p>
 ---
 
 ### Connect with me!
